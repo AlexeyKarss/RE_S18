@@ -11,8 +11,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AssemblyDope", "AssemblyDop
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PEParser", "PEParser\RE-PEParser.vcxproj", "{873E2B1C-B373-4722-B906-9216B59D4C95}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookDll", "HookDll\HookDll.vcxproj", "{90F9C961-BE8B-41A1-AFE5-23E139BA6826}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -53,14 +51,6 @@ Global
 		{873E2B1C-B373-4722-B906-9216B59D4C95}.Release|x64.Build.0 = Release|x64
 		{873E2B1C-B373-4722-B906-9216B59D4C95}.Release|x86.ActiveCfg = Release|Win32
 		{873E2B1C-B373-4722-B906-9216B59D4C95}.Release|x86.Build.0 = Release|Win32
-		{90F9C961-BE8B-41A1-AFE5-23E139BA6826}.Debug|x64.ActiveCfg = Debug|x64
-		{90F9C961-BE8B-41A1-AFE5-23E139BA6826}.Debug|x64.Build.0 = Debug|x64
-		{90F9C961-BE8B-41A1-AFE5-23E139BA6826}.Debug|x86.ActiveCfg = Debug|Win32
-		{90F9C961-BE8B-41A1-AFE5-23E139BA6826}.Debug|x86.Build.0 = Debug|Win32
-		{90F9C961-BE8B-41A1-AFE5-23E139BA6826}.Release|x64.ActiveCfg = Release|x64
-		{90F9C961-BE8B-41A1-AFE5-23E139BA6826}.Release|x64.Build.0 = Release|x64
-		{90F9C961-BE8B-41A1-AFE5-23E139BA6826}.Release|x86.ActiveCfg = Release|Win32
-		{90F9C961-BE8B-41A1-AFE5-23E139BA6826}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
